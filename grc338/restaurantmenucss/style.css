@@ -1,0 +1,33 @@
+/* css document */
+
+body {
+    font-family: sans-serif;
+    margin: 2em 2em 1em 2em;
+    background-color: rgb(155, 197, 209);
+}
+
+h1 {
+    color: rgb(23, 0, 173);
+    font-size: 4em; 
+    text-transform: lowercase; 
+    margin: 0em 0em .05em 0em;
+}
+
+h2{
+    text-transform: lowercase;
+    font-size: 2.5em;
+}
+
+h3 {
+    text-transform: lowercase;
+    font-size: 1.5em;
+}
+
+ul{
+    padding: 1em 3em 1em 3em;
+    background-color: rgb(240, 250, 252);
+}
+
+.description{
+    color: rgb(6, 40, 99);
+}
