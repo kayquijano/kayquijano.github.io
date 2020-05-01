@@ -1,0 +1,98 @@
+/*CSS DOCUMENT*/
+@import url("https://use.typekit.net/wfx4txv.css");
+
+img {
+width: 60%;
+margin: 0em 10em 0em 10em;    
+}
+
+body{
+    background-color: white;
+}
+
+div.container{
+    max-width: 60em;
+    margin:auto;
+}
+
+header{
+    margin: 0em 10em 0em 10em;
+}
+
+h1{
+    font-family: bely-display, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2em;
+    color:rgb(79, 0, 29);
+}
+
+h2{
+    font-family: proxima-nova, sans-serif;
+font-weight: 100;
+font-style: normal;
+    text-transform: uppercase;
+    font-size: 1.8em;
+}
+
+.intro p{
+    font-family: proxima-nova, sans-serif;
+font-weight: 300;
+font-style: normal;
+    font-size: 1.2em;
+}
+
+div.maincontent{
+    background-color: rgb(79, 0, 29);
+    padding: 0em 0em 4em 0em;
+}
+
+.ingredients h3{
+    font-family: bely-display, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.6em;
+    margin: 0em 5em 0em 2.5em;
+    padding: 1em 0em 1em 0em;
+    color: white;
+}
+
+div.ingredients{
+    font-family: proxima-nova, sans-serif;
+font-weight: 100;
+font-style: normal;
+}
+
+.ingredients ul{
+    background-color: white;
+    padding: 1em 3em 1em 3em;
+    margin: 0em 4.5em 0em 4.5em;
+}
+
+.directions h3{
+    font-family: bely-display, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.6em;
+    margin: 0em 5em 0em 2.5em;
+    padding: 1em 0em 1em 0em;
+    color: white;
+}
+
+div.directions{
+    font-family: proxima-nova, sans-serif;
+font-weight: 300;
+font-style: normal;
+}
+
+.directions ol{
+    background-color: white;
+    padding: 1em 3em 1em 3em;
+    margin: 0em 4.5em 0em 4.5em;
+}
+
+footer{
+    font-family: proxima-nova, sans-serif;
+font-weight: 300;
+font-style: normal;
+}
